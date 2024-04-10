@@ -36,6 +36,7 @@ Esta é uma calculadora com funcionalidades avançadas, desenvolvida usando vár
   - Página simples do IMC
 
 ## Raiz do Projeto
+```
 Calculadora/
 │
 ├── Config/      # Configuração de Banco
@@ -55,4 +56,4 @@ Calculadora/
 │
 ├── LICENSE 
 └── README.md                 
-
+```
