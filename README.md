@@ -36,12 +36,14 @@ Esta é uma calculadora com funcionalidades avançadas, desenvolvida usando vár
   - Página simples do IMC
 
 ## Raiz do Projeto
-```
+```bash
 Calculadora/
 │
 ├── Config/      # Configuração de Banco
 │
 ├── IA/          # Controller da AI 
+│
+├── Pdf_Genarate/  # Controller de Criação PDF
 │
 ├── InitServer/  # Controller de Processos
 │
@@ -74,4 +76,25 @@ Para executar este projeto, certifique-se de ter os seguintes requisitos instala
 1. Clone este repositório:
 
    ```bash
-   git clone https://github.com/seu-usuario/calculadora-csharp.git
+   git clone https://github.com/scriptsync/SYNC-CALCULATOR
+   dotnet build
+   dotnet run
+   ```
+## 〽️ Como Fazer o Projeto Funcionar
+
+2. Depois Copie Da Pasta Assets:
+    ```bash
+    Copie a Pasta " icons " e " Personagens " Dentro de Assets para bin\Debug\net8.0-windows ou outra versão que vc estiver usando do .NET
+   ```
+
+## Com Esses Passo já feito Escolha o modo de Depuraçao do Servido da IASYNC
+3. Escolha o Servidor que vc Quer usar:
+   
+   - Escolha o Server --Console -> Modo de Desenvolvimento
+   - ou
+   - Escolha o Server --NoConsole -> Modo Produção
+   - 
+  ```bash
+    Dentro do Servido que vc escolheu tem a Pasta " Components "," Config.ini "," Servidor.exe " Copie essas 3 para o
+    bin\Debug\net8.0-windows ou outra versão que vc estiver usando do .NET, Sem isso vc não poderar usa a IA
+  ```
