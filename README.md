@@ -1,6 +1,6 @@
 # 🧮 SYNC-CALCULATOR
 
-Esta é uma calculadora com funcionalidades avançadas, desenvolvida usando várias tecnologias, incluindo C#, Python, SQL e uma IA embutida para tarefas específicas. O projeto visa fornecer uma interface amigável para realizar cálculos, Armazenar, e Execultar.
+Esta é uma calculadora Básica , desenvolvida usando várias tecnologias, incluindo C#, Python, SQL e uma IA embutida para tarefas específicas. O projeto visa fornecer uma interface amigável para realizar cálculos, Armazenar, e Gerar Dicas.
 <div style="display:flex;flex-direction:row;gap:0.3rem">
   <img src="https://github.com/scriptsync/SYNC-CALCULATOR/blob/main/Img/Interface.png?raw=true" alt="" width="300" height="400">
   <img src="https://github.com/scriptsync/SYNC-CALCULATOR/blob/main/Img/menu.png?raw=true" alt="" width="300" height="400">
