@@ -63,10 +63,6 @@ Calculadora/
 ├── LICENSE 
 └── README.md                 
 ```
-<div style="display:flex;flex-direction:row;gap:0.3rem">
-  <img src="https://github.com/scriptsync/SYNC-CALCULATOR/blob/main/Img/Captura%20de%20tela%202024-04-10%20003217.png?raw=true" alt="" width="300" height="400">
-</div>
-
 ## 🚀 Requisitos para Executar
 
 Para executar este projeto, certifique-se de ter os seguintes requisitos instalados:
@@ -111,4 +107,5 @@ Para executar este projeto, certifique-se de ter os seguintes requisitos instala
 <div style="display:flex;flex-direction:row;gap:0.3rem">
   <img src="https://github.com/scriptsync/SYNC-CALCULATOR/blob/main/Img/Estrutuar%20Final.png?raw=true" alt="" width="300" height="400">
 </div>
-   
+
+-- Open Soucer Developer
