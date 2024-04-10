@@ -30,8 +30,8 @@ Esta é uma calculadora com funcionalidades avançadas, desenvolvida usando vár
   - Integração com IA e funcionalidades adicionais
 - **SQL:**
   - Armazenamento e recuperação de dados
-- **Flask (Python):**
-  - Interface web para acessar a calculadora
+- **Api:**
+  -Flask
 - **HTML
   - Página simples do IMC
 
