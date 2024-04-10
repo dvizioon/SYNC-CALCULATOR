@@ -57,3 +57,32 @@ Calculadora/
 ├── LICENSE 
 └── README.md                 
 ```
+
+## 🚀 Requisitos para Executar
+
+Para executar este projeto, certifique-se de ter os seguintes requisitos instalados:
+
+- **Sistema Operacional**:
+  - Windows, Linux
+
+- **SDK e Ferramentas**:
+  - [.NET Core SDK](https://dotnet.microsoft.com/download) (versão 3.1 ou superior)
+  - [Visual Studio](https://visualstudio.microsoft.com/pt-br/downloads/) ou [Visual Studio Code](https://code.visualstudio.com/) (opcional, mas recomendado para desenvolvimento)
+
+## ⚙️ Configuração do Ambiente
+
+Siga as etapas abaixo para configurar o ambiente de desenvolvimento:
+
+1. **Instalação do .NET Core SDK**:
+   - Baixe e instale o [.NET Core SDK](https://dotnet.microsoft.com/download) de acordo com o seu sistema operacional.
+
+2. **Instalação do Visual Studio ou Visual Studio Code** (opcional):
+   - Caso deseje uma IDE completa, baixe e instale o [Visual Studio](https://visualstudio.microsoft.com/pt-br/downloads/).
+   - Para uma opção mais leve, instale o [Visual Studio Code](https://code.visualstudio.com/).
+
+## 🛠️ Como Executar o Projeto
+
+1. Clone este repositório:
+
+   ```bash
+   git clone https://github.com/seu-usuario/calculadora-csharp.git
