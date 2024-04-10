@@ -105,3 +105,10 @@ Para executar este projeto, certifique-se de ter os seguintes requisitos instala
     Dentro do Servido que vc escolheu tem a Pasta " Components "," Config.ini "," Servidor.exe " Copie essas 3 para o
     bin\Debug\net8.0-windows ou outra versão que vc estiver usando do .NET, Sem isso vc não poderar usa a IA
   ```
+
+## Com Esses Passo já feito A Estrutura Final tem que ficar Assim
+3. Dentro do bin\Debug\net8.0-windows:
+<div style="display:flex;flex-direction:row;gap:0.3rem">
+  <img src="https://github.com/scriptsync/SYNC-CALCULATOR/blob/main/Img/Estrutuar%20Final.png?raw=true" alt="" width="300" height="400">
+</div>
+   
