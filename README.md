@@ -108,4 +108,4 @@ Para executar este projeto, certifique-se de ter os seguintes requisitos instala
   <img src="https://github.com/scriptsync/SYNC-CALCULATOR/blob/main/Img/Estrutuar%20Final.png?raw=true" alt="" width="300" height="400">
 </div>
 
--- Open Soucer Developer
+
