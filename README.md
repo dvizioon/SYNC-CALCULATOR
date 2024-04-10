@@ -1,7 +1,7 @@
 # 🧮 SYNC-CALCULATOR
 
 Esta é uma calculadora com funcionalidades avançadas, desenvolvida usando várias tecnologias, incluindo C#, Python, SQL e uma IA embutida para tarefas específicas. O projeto visa fornecer uma interface amigável para realizar cálculos, Armazenar, e Execultar.
-
+<img src="https://exemplo.com/logo.png" alt="Logo da Minha Empresa" width="200" height="100">
 ## Funcionalidades
 
 - **Operações Básicas:**
