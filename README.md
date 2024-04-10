@@ -66,9 +66,9 @@ Para executar este projeto, certifique-se de ter os seguintes requisitos instala
   - Windows, Linux
 
 - **SDK e Ferramentas**:
-  - [.NET Core SDK](https://dotnet.microsoft.com/download) (versão 3.1 ou superior)
+  - [.NET Core SDK]([https://dotnet.microsoft.com/download](https://dotnet.microsoft.com/en-us/download)) 
   - [Visual Studio](https://visualstudio.microsoft.com/pt-br/downloads/) ou [Visual Studio Code](https://code.visualstudio.com/) (opcional, mas recomendado para desenvolvimento)
-
+  - [Python => 3.8.0]([https://www.python.org/downloads/windows/](https://www.python.org/downloads/windows/)) 
 ## ⚙️ Configuração do Ambiente
 
 Siga as etapas abaixo para configurar o ambiente de desenvolvimento:
