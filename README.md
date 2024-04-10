@@ -4,6 +4,7 @@ Esta é uma calculadora com funcionalidades avançadas, desenvolvida usando vár
 <div style="display:flex;flex-direction:row;gap:0.3rem">
   <img src="https://github.com/scriptsync/SYNC-CALCULATOR/blob/main/Img/Interface.png?raw=true" alt="Logo da Minha Empresa" width="300" height="400">
   <img src="https://github.com/scriptsync/SYNC-CALCULATOR/blob/main/Img/menu.png?raw=true" alt="Logo da Minha Empresa" width="300" height="400">
+  <img src="https://github.com/scriptsync/SYNC-CALCULATOR/blob/main/Img/imc.png?raw=true" alt="Logo da Minha Empresa" width="300" height="400">
 </div>
 ## Funcionalidades
 
