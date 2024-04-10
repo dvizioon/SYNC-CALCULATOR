@@ -31,7 +31,7 @@ Esta é uma calculadora com funcionalidades avançadas, desenvolvida usando vár
 - **SQL:**
   - Armazenamento e recuperação de dados
 - **Api:**
-  -Flask
+  - Flask
 - **HTML
   - Página simples do IMC
 
@@ -93,7 +93,7 @@ Para executar este projeto, certifique-se de ter os seguintes requisitos instala
    - Escolha o Server --Console -> Modo de Desenvolvimento
    - ou
    - Escolha o Server --NoConsole -> Modo Produção
-   - 
+
   ```bash
     Dentro do Servido que vc escolheu tem a Pasta " Components "," Config.ini "," Servidor.exe " Copie essas 3 para o
     bin\Debug\net8.0-windows ou outra versão que vc estiver usando do .NET, Sem isso vc não poderar usa a IA
