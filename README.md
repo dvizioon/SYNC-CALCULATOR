@@ -33,7 +33,26 @@ Esta é uma calculadora com funcionalidades avançadas, desenvolvida usando vár
 - **Flask (Python):**
   - Interface web para acessar a calculadora
 - **HTML
-  - Pagina do IMC
+  - Página simples do IMC
 
-
+## Raiz do Projeto
+Calculadora/
+│
+├── Config/      # Configuração de Banco
+│
+├── IA/          # Controller da AI 
+│
+├── InitServer/  # Controller de Processos
+│
+├── Server --Console/ # Ia Controller Debug from Flask -- CMD
+│
+├── Server --noConsole/  # Ia Controller Debug from Flask -- NO CMD
+│
+├── Template/  # Aqui São as Calculadoras Logica e Designer
+│   └── Calculadora_Comun 
+│   └── Calculadora_Configuracao
+│   └── Calculadora_Conversor
+│
+├── LICENSE 
+└── README.md                 
 
